@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="kXhPyWvtrWLIKAWM3VAJ" name="Page-1">
+        <mxGraphModel dx="1216" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="1. There should be a variable that will be used as a filter&lt;br&gt;2. User chooses currency and timespan (in a year or a month)&lt;br&gt;3. User writes an income&lt;br&gt;4. Data shows how much more you gain over &quot;defined by filter&quot; population&lt;br&gt;5. Some graphs to show&lt;br&gt;6. Some citates&lt;br&gt;7. Just interesting graphs from that dataser" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="92" y="264" width="400" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="How do I want my MVP to look like:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="193" y="210" width="198" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
